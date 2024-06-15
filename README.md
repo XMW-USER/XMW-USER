@@ -1,4 +1,8 @@
-## Hi there 👋
+![xmw-user's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xmw-user&show_icons=true&line_height=27&count_private=true&theme=transparent) ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xmw-user&theme=transparent&langs_count=3)
+
+<!-- Links to your social media accounts -->
+
+[![discord](https://img.shields.io/badge/discord-purple?logo=discord&logoColor=white)](https://discordapp.com/users/1240028146804326400)
 
 <!--
 **XMW-USER/XMW-USER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
